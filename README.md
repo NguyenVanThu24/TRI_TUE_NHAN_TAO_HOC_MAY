@@ -12,6 +12,8 @@
 
 **Đề tài:** Xây dựng hệ thống dự đoán giá nhà dựa trên các đặc trưng bất động sản sử dụng học máy.
 
+# <p align="center">NỘI DUNG</p>
+
 ## Phần 1: Hướng dẫn cài đặt và chạy chương trình
 #### 1. Yêu cầu hệ thống   
 - Hệ điều hành: Windows / Linux / macOS   
