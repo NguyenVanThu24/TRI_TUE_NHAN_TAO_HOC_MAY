@@ -12,8 +12,6 @@
 
 **Đề tài:** Xây dựng hệ thống dự đoán giá nhà dựa trên các đặc trưng bất động sản sử dụng học máy.
 
-**Link video Youtube báo cáo và demo kết quả:** https://youtu.be/E6c_JKXwlRc
-
 ## Hướng dẫn cài đặt và chạy chương trình
 #### 1. Yêu cầu hệ thống   
 - Hệ điều hành: Windows / Linux / macOS   
@@ -55,10 +53,15 @@
 - Nếu lỗi thiếu thư viện, có thể cài thủ công: `pip install streamlit pandas numpy scikit-learn xgboost`
 - Trong trường hợp cổng 8501 bị chiếm dụng, có thể đổi cổng khác: `streamlit run app.py --server.port 8502`
 
-## Link dữ liệu, link code trên github
+## Link dữ liệu, link code trên github và link Video
 #### 1. Link dữ liệu: 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 #### 2. Link và Mã QR Github:
 https://github.com/NguyenVanThu24/TRI_TUE_NHAN_TAO_HOC_MAY/tree/main
 
 <img width="431" height="431" alt="Ảnh chụp màn hình 2026-03-18 231722" src="https://github.com/user-attachments/assets/ca8e146a-6de0-421b-8e72-2834d2a7ff94" />
+ 
+ #### 3. Link video Youtube báo cáo và demo kết quả: 
+ https://youtu.be/E6c_JKXwlRc
+
+ # <p align="center">THE END</p>
