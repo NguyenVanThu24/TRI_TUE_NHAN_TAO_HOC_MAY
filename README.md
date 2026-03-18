@@ -64,4 +64,4 @@ https://github.com/NguyenVanThu24/TRI_TUE_NHAN_TAO_HOC_MAY/tree/main
  #### 3. Link video Youtube báo cáo và demo kết quả: 
  https://youtu.be/E6c_JKXwlRc
 
- # <p align="center">THE END</p>
+ # <p align="center">--- THE END ---</p>
