@@ -30,17 +30,34 @@
 - Công cụ phát triển:   
   - Visual Studio Code / PyCharm   
   - GitHub (quản lý mã nguồn)
-#### 3. Hướng dẫn cài đặt
+#### 3. Hướng dẫn cài đặt   
 **Bước 1:** Cài đặt Python   
-Tải và cài đặt Python tại trang chính thức: https://www.python.org   
-Kiểm tra sau khi cài: `python --version`   
+- Tải và cài đặt Python tại trang chính thức: https://www.python.org   
+- Kiểm tra sau khi cài: `python --version`
+
 **Bước 2:** Tải mã nguồn   
-Clone từ GitHub: `git clone <link-github-cua-ban>` Hoặc tải file .zip và giải nén.   
+- Clone từ GitHub: `git clone <link-github-cua-ban>` Hoặc tải file .zip và giải nén.
+
 **Bước 3:** Cài đặt thư viện   
-Di chuyển vào thư mục dự án: `cd house_price_prediction`   
-Cài đặt các thư viện cần thiết: `pip install -r requirements.txt`
+- Di chuyển vào thư mục dự án: `cd house_price_prediction`   
+- Cài đặt các thư viện cần thiết: `pip install -r requirements.txt`
 #### 4. Hướng dẫn chạy chương trình
-Chạy ứng dụng bằng lệnh: `streamlit run app.py`   
-Sau khi chạy thành công, hệ thống sẽ tự động mở trình duyệt tại địa chỉ: `http://localhost:8501`
+- Chạy ứng dụng bằng lệnh: `streamlit run app.py`   
+- Sau khi chạy thành công, hệ thống sẽ tự động mở trình duyệt tại địa chỉ: `http://localhost:8501`
+#### 5. Hướng dẫn sử dụng
+- Nhập các thông tin của căn nhà: Diện tích, Số phòng ngủ, phòng tắm, Năm xây dựng, Vị trí
+- Hệ thống sẽ tự động:
+  - Xử lý dữ liệu đầu vào
+  - Đưa vào mô hình dự đoán
+  - Hiển thị giá nhà dự đoán
+#### 6. Ghi chú
+- Đảm bảo đã cài đầy đủ thư viện trước khi chạy
+- Nếu lỗi thiếu thư viện, có thể cài thủ công: `pip install streamlit pandas numpy scikit-learn xgboost`
+- Trong trường hợp cổng 8501 bị chiếm dụng, có thể đổi cổng khác: `streamlit run app.py --server.port 8502`
 
 ## Link dữ liệu, link code trên github
+#### 1. Link dữ liệu: 
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+#### 2. Link và Mã QR Github:
+
+<img width="431" height="431" alt="Ảnh chụp màn hình 2026-03-18 231722" src="https://github.com/user-attachments/assets/ca8e146a-6de0-421b-8e72-2834d2a7ff94" />
