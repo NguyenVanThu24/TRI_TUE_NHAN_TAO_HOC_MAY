@@ -59,5 +59,5 @@
 #### 1. Link dữ liệu: 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 #### 2. Link và Mã QR Github:
-
+https://github.com/NguyenVanThu24/TRI_TUE_NHAN_TAO_HOC_MAY/tree/main
 <img width="431" height="431" alt="Ảnh chụp màn hình 2026-03-18 231722" src="https://github.com/user-attachments/assets/ca8e146a-6de0-421b-8e72-2834d2a7ff94" />
